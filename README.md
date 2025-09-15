@@ -1,2 +1,4 @@
 # JS-prac
-A collection of JavaScript practice exercises exploring core concepts like DOM manipulation, functions, events, conditionals, and array methods. This repo is meant for hands-on learning and building a strong foundation in JavaScript by experimenting with small projects and code snippets.
+
+A simple collection of JavaScript exercises and small projects to practice core concepts like functions, DOM manipulation, events, and arrays.  
+This repo is mainly for learning and experimenting with JS basics.
